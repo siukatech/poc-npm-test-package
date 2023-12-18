@@ -1,0 +1,14 @@
+{
+  "name": "poc-npm-test-package",
+  "version": "1.0.0",
+  "description": "poc-npm-test-package",
+  "main": "index.js",
+  "_bak_publishConfig": {
+    "registry": "http://localhost:38081/repository/npm-internal/"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
